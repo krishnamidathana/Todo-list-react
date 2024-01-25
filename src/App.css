@@ -6,7 +6,7 @@
   
 }
 .container {
-  background-color: rgb(234, 184, 149);
+  background-color: rgb(234, 184, 149); 
   box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.3);
   padding: 2rem;
   display: flex;
