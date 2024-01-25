@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  width:70%;
+  
 }
 .container {
   background-color: rgb(234, 184, 149);
@@ -56,3 +56,8 @@ li > button {
   background-color: rgb(133, 255, 133);
   border-radius: 10px;
 }
+
+@media screen and (max-width: 600px){
+    .container {
+        width:70%;
+    }
